@@ -1,5 +1,11 @@
-{
-	HashMap<String, Object> _item = new HashMap<>();
-	_item.put("list", "hi");
-	ListPictures.add(_item);
-}
+[
+    {
+        "list","hi"
+    },
+    {
+        "list","how are you?"
+    },
+    {
+        "list","Thanks"
+    }
+]
