@@ -1,11 +1,11 @@
 [
-    {
-        "list","hi"
-    },
-    {
-        "list","how are you?"
-    },
-    {
-        "list","Thanks"
-    }
+   {
+      "list": "hi"
+   },
+   {
+      "list": "how are you?"
+   },
+   {
+      "list": "Thanks"
+   }
 ]
