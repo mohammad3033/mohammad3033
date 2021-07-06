@@ -6,16 +6,21 @@
       "list": "how are you?"
    },
    {
-      "list": "getWindow().getDecorView().setSystemUiVisibility(View.SYSTEM_UI_FLAG_LIGHT_STATUS_BAR);
-getWindow().setStatusBarColor(0xFFFFFFFF);"
+      "list": "شهریور ۹۹
+تشریحی
+۱۸- چگونه دو انقلاب اجتماعی در قرن بیستم در جامعه ایران شکل گرفت؟
+پاسخ:( مقبولیت و مرجعیت علم فقه در فرهنگ عمومی جامعه ایران موجب شد که بر اساس دو نظریه فقهی (نظریه مشروطه میرزای نایینی و نظریه ولایت فقیه و انقلاب اسلامی امام خمینی ) دو انقلاب اجتماعی در یک قرن در جامعه ایران شکل بگیرد)
+
+۱۹- چرا علوم اجتماعی اندیشمندان مسلمان از نوع تفسیری نیست؟
+پاسخ:( آنان دانش علمی را به دانش حسی و تجربی محدود نمی کنند از این رو بر خلاف رویکرد تفسیری تفسیر را در تقابل با تبیین نمی دانند بلکه هر تفسیری را نوعی تبیین به شمار می آورند زیرا تفسیر راهم نیازمند استدلال می دانند)"
    },
    {
-      "list": "row2.setOnScrollChangeListener(new View.OnScrollChangeListener(){
-@Override
-public void onScrollChange(View _view, int _x, int _y, int _oldX, int _oldY){
+      "list": "شهریور ۹۹
+تشریحی
+۱۸- چگونه دو انقلاب اجتماعی در قرن بیستم در جامعه ایران شکل گرفت؟
+پاسخ:( مقبولیت و مرجعیت علم فقه در فرهنگ عمومی جامعه ایران موجب شد که بر اساس دو نظریه فقهی (نظریه مشروطه میرزای نایینی و نظریه ولایت فقیه و انقلاب اسلامی امام خمینی ) دو انقلاب اجتماعی در یک قرن در جامعه ایران شکل بگیرد)
 
-}
-});int[] colorsCRNAZitem_color1 = {Color.parseColor("".replace("0xFF", "#")), Color.parseColor("".replace("0xFF", "#"))};
-android.graphics.drawable.GradientDrawable CRNAZitem_color1 = new android.graphics.drawable.GradientDrawable(android.graphics.drawable.GradientDrawable.Orientation._, colorsCRNAZitem_color1);"
+۱۹- چرا علوم اجتماعی اندیشمندان مسلمان از نوع تفسیری نیست؟
+پاسخ:( آنان دانش علمی را به دانش حسی و تجربی محدود نمی کنند از این رو بر خلاف رویکرد تفسیری تفسیر را در تقابل با تبیین نمی دانند بلکه هر تفسیری را نوعی تبیین به شمار می آورند زیرا تفسیر راهم نیازمند استدلال می دانند)"
    }
 ]
